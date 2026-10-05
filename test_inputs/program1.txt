@@ -1,0 +1,10 @@
+dim x, y integer
+dim z real
+dim flag boolean
+dim f boolean
+x as 5ABH:
+y as 1010b:
+z as .14:
+flag as true:
+if x NE 0 then [ write(x) : write(y) ]
+end

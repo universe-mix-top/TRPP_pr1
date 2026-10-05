@@ -1,0 +1,4 @@
+dim i real
+i as 3e4:
+while i LE 10 do write(i): i as i plus 1:
+end

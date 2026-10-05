@@ -1,0 +1,4 @@
+dim x, y, i integer
+for i as 0 to 5 do x as x plus y:
+write(x, y)
+end

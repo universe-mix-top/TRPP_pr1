@@ -1,0 +1,48 @@
+dim {ключевые слова}
+end
+if
+then
+else
+for
+to
+do
+while
+read
+write
+as
+true
+false
+; {разделители}
+:
+,
+{. используется только в дробных числах}
+(
+)
+[
+]
+integer
+real
+boolean
+NE
+EQ
+LT
+LE
+GT
+GE
+plus
+min
+or
+mult
+div
+and
+~
+ {перевод строки}
+1b {числа}
+71o
+99D
+1Fh
+99E+2
+1.1
+a {идентификаторы}
+b1
+c9j0

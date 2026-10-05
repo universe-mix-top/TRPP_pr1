@@ -1,0 +1,10 @@
+dim a, b, c, d, e, f, g, h, i, j, k, l, m, n, p, q, r, s integer
+a as b plus c:
+d as e min f:
+g as h mult i:
+j as k div l:
+m as n and p:
+q as r or s:
+if a EQ b then write(1):
+if x NE y then write(0):
+end

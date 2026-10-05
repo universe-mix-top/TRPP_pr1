@@ -1,0 +1,7 @@
+dim a, b, res real
+read(a, b):
+res as a:
+for i as 1 to i EQ 5
+do res as res mult a:
+write(res)
+end

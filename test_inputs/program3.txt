@@ -1,0 +1,10 @@
+dim x, y, z, w, c real
+x as .123
+y as 123.456
+{
+    это комментарий
+}
+z as 1E5
+w as 2.5e-3
+c as .9e+2
+end

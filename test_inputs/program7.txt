@@ -1,0 +1,6 @@
+dim a, b, sum integer
+read(a, b):
+write(a):
+sum as a plus b:
+write(a, b, sum)
+end

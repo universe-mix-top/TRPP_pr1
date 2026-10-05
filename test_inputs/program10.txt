@@ -1,0 +1,6 @@
+dim a, b, c real
+a as 1:
+b as 2:
+c as 3:
+write(a, b, c)
+end
